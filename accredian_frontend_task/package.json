@@ -1,5 +1,5 @@
 {
-  "name": "accredian-frontend-task",
+  "name": "accredianfrontend",
   "private": true,
   "version": "0.0.0",
   "type": "module",
@@ -34,3 +34,5 @@
     "vite": "^5.1.3"
   }
 }
+
+
