@@ -13,9 +13,8 @@ app.use(cors({
   origin: [
     'http://localhost:5173', 
     'http://127.0.0.1:5173',
-    'https://accredian-frontend.vercel.app',
-    'https://*.vercel.app'
-  ].filter(Boolean),
+    'https://testapp123.vercel.app'
+  ],
   methods: ['GET', 'POST'],
   credentials: true
 }));
